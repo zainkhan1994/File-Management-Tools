@@ -1,0 +1,5 @@
+  0B	Duplicate-File-Remover
+8.0K	File-Lister
+8.0K	File-Sorter
+  0B	File_Counter
+  0B	fileorganizer
